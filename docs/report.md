@@ -6,7 +6,7 @@ The following metrics were recorded during the manual development of the Acousti
 
 | Metric | Value |
 | :--- | :--- |
-| **Total Development Time** | ~25 Minutes |
+| **Total Development Time** | ~45 Minutes |
 | **Development Iterations** | 1 |
 | **Requirements Mismatched** | 0 |
 
