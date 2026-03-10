@@ -22,6 +22,7 @@ The following metrics were recorded during the manual development of the Acousti
 * **Ease of Use:** Utilizing standard Unity C# hooks like `OnMouseDown` felt significantly more intuitive for spatial interactions than defining JSON schemas.
 * **Workflow Clarity:** The direct event-driven workflow (Trigger -> Script -> Action) provided immediate transparency, making it easier to trace logic compared to abstracted dictionary-based systems.
 * **Confidence & Experience:** Confidence in the solution's correctness is high due to real-time console debugging. While VReqDV enforces a strict architectural structure, manual development offers the agility needed for rapid physics-based prototyping.
+* **Visual completion:** The system being a prototype had a shortcoming of not having polished textures and meshes, to be able to simulate dark lighting and shadows. These changes were however simple enough to transcend into a more rigorous implementation of the system (not a prototpye) where effects can be applied to render light in a dimming environment. 
 
 ---
 
